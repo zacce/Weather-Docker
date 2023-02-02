@@ -1,0 +1,15 @@
+{
+  "name": "Weather App",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Sakari Heino <sakari.heino@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "hbs": "^4.2.0",
+    "request": "^2.88.2"
+  }
+}
